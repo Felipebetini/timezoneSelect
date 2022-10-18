@@ -25,5 +25,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Install google-timezones-json
+```
 npm i google-timezones-json
-
+```
